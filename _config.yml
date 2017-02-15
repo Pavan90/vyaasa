@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "I'm Vyaasa"
+title: "Pavan Kodali"
 title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
 email: your-email@domain.com
@@ -32,7 +32,7 @@ disqus-shortname: webjeda-demo
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
-api-token:   
+api-token:ac5fa32f89c6024991aa3b2c6c986f8d   
 
 #CSS
 sass:
